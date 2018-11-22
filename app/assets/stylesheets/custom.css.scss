@@ -5,6 +5,7 @@
 body {
 	// background-size: cover;
 	// background-image: url('https://images.unsplash.com/photo-1508615070457-7baeba4003ab?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6c58016a8848bf447257e8d9ea378f92&auto=format&fit=crop&w=1350&q=80');
+	// opacity: 0.2;
 }
 
 .jumbotron {
@@ -28,4 +29,14 @@ h1 {
 
 .noleftpad {
 	padding-left: 0;
+}
+
+.article-title {
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+.article-body {
+	border-top: 1px solid #eaeaee;
+	padding-top: 1rem;
 }
